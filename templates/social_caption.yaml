@@ -1,0 +1,33 @@
+template:
+  name: Social Caption Prompt
+  visual: false
+  media_kind: social copy prompt
+  rules:
+    - Short.
+    - Direct.
+    - Human.
+    - Internet-native.
+    - Not too corporate.
+    - Not too polished.
+    - Avoid sounding like AI.
+    - Avoid overexplaining.
+  body: |-
+    Write social copy for a short-form reality music competition post.
+
+    Context:
+    {scene_details}
+
+    Character / Moment:
+    {character_description}
+
+    Emotion:
+    {emotion_description}
+
+    Output exactly:
+    1. TikTok/Instagram caption
+    2. YouTube title
+    3. YouTube description
+    4. Hashtags
+
+    Style:
+    Short, direct, human, internet-native, not corporate, not too polished, avoid sounding like AI, avoid overexplaining. {negative_constraints_line}

@@ -1,0 +1,21 @@
+items:
+  - name: static frontal medium shot
+    description: static frontal medium shot with the subject centered and clearly readable
+  - name: frontal close-up
+    description: frontal close-up focused on facial expression and emotional detail
+  - name: medium close-up
+    description: medium close-up with face, shoulders, and subtle body language visible
+  - name: side profile shot
+    description: side profile shot with clean separation from the background
+  - name: over-the-shoulder shot
+    description: over-the-shoulder shot that shows the subject reacting across the room
+  - name: three-judge frontal shot
+    description: frontal three-judge shot showing all judges clearly at the desk
+  - name: audience medium shot
+    description: medium shot of realistic audience members reacting together
+  - name: stage wide shot
+    description: wide stage shot showing the performance space, lights, and atmosphere
+  - name: backstage hallway shot
+    description: cinematic backstage hallway shot with controlled depth and realistic studio lighting
+  - name: custom camera angle
+    description: User-defined camera angle.

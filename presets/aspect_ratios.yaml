@@ -1,0 +1,25 @@
+items:
+  - name: 9:16 vertical short-form video
+    phrase: vertical 9:16
+    visual_phrase: realistic vertical 9:16 cinematic
+  - name: 16:9 horizontal video
+    phrase: horizontal 16:9
+    visual_phrase: realistic horizontal 16:9 cinematic
+  - name: 1:1 square
+    phrase: square 1:1
+    visual_phrase: realistic square 1:1 cinematic
+  - name: 4:5 vertical social feed
+    phrase: vertical 4:5 social feed
+    visual_phrase: realistic vertical 4:5 social feed cinematic
+  - name: 2:1 wide cover image
+    phrase: wide 2:1 cover
+    visual_phrase: wide 2:1 cinematic cover
+  - name: 2560x423 YouTube banner
+    phrase: 2560x423 YouTube banner-style
+    visual_phrase: 2560x423 YouTube banner-style cinematic
+  - name: 1500x500 X/Twitter header
+    phrase: 1500x500 X/Twitter header-style
+    visual_phrase: 1500x500 X/Twitter header-style cinematic
+  - name: Custom
+    phrase: custom
+    visual_phrase: custom

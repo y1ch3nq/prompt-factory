@@ -1,0 +1,36 @@
+template:
+  name: Audience Reaction Prompt
+  visual: true
+  media_kind: audience reaction video
+  rules:
+    - Show realistic diverse audience members.
+    - Use body language and facial expression to show emotion.
+    - Keep the camera stable unless a movement is selected.
+    - No subtitles.
+    - No text.
+    - No fake logos.
+  body: |-
+    {reference_line}
+    {reference_notes_line}
+    Create a {aspect_ratio_text} audience reaction video clip for a high-end televised music competition.
+
+    Character:
+    {character_description}
+
+    Scene:
+    {scene_details}
+
+    Action:
+    {action_description}
+
+    Camera:
+    {camera_instruction}
+
+    Dialogue:
+    {dialogue_rule}
+
+    Mood:
+    {mood_description}
+
+    Important:
+    {audience_rules} {important_rules}

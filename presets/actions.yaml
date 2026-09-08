@@ -1,0 +1,21 @@
+items:
+  - name: applause
+    description: natural applause with visible approval and realistic timing
+  - name: wiping tears
+    description: wiping tears gently while trying to stay composed
+  - name: gentle nodding
+    description: gentle nodding with quiet approval and controlled emotion
+  - name: shocked silence
+    description: frozen shocked silence with minimal movement
+  - name: awkward glance
+    description: awkward glance to the side, unsure whether to react
+  - name: hand over chest
+    description: one hand over the chest, visibly touched
+  - name: confused side glance
+    description: confused side glance with subtle facial tension
+  - name: calm waiting
+    description: calm waiting posture, attentive and still
+  - name: tense stare
+    description: tense stare with guarded body language
+  - name: custom action
+    description: User-defined action.

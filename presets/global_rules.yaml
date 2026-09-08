@@ -1,0 +1,112 @@
+default_visual_style: realistic, cinematic, high-end televised music competition
+default_camera_requirement: stable, smooth, no shaking, no sudden movement
+reference_image_rule: Use the uploaded image as the first frame and visual reference.
+single_speaker_rule: If only one character speaks, all other characters remain silent and do not lip sync.
+silent_reaction_constraints:
+  - no dialogue
+  - no lip sync
+  - no subtitles
+  - no text
+common_visual_constraints:
+  - realistic cinematic broadcast look
+  - high-end televised music competition
+  - stable smooth camera
+  - no shaking
+  - no sudden camera movement
+  - no subtitles
+  - no text on screen
+  - no fake logos
+reference_image_constraints:
+  - use the uploaded image as the first frame and visual reference
+  - preserve character identity and visual continuity
+  - no identity changes
+judge_personalities:
+  Purple female judge:
+    traits: gentle, emotionally sensitive, warm, easily moved
+    positive:
+      - gentle smile
+      - emotional eyes
+      - hand over chest
+      - soft nodding
+      - touched expression
+    negative:
+      - sad disappointment
+      - subtle head shake
+      - lips pressed together
+      - quiet concern
+  Black male judge:
+    traits: strict, serious, sharp, controlled, hard to impress
+    positive:
+      - controlled nod
+      - serious approval
+      - slight eyebrow lift
+      - restrained respect
+    negative:
+      - cold stare
+      - furrowed brows
+      - leans back
+      - disappointed expression
+      - sharp silence
+  Colorful male judge:
+    traits: chill, playful, expressive, slightly chaotic
+    positive:
+      - relaxed applause
+      - amused smile
+      - impressed side glance
+      - chill approval
+    negative:
+      - awkward shrug
+      - confused glance
+      - exaggerated disbelief
+      - speechless reaction
+audience_rules:
+  - Show realistic diverse audience members at a televised music competition.
+  - Do not give audience members dialogue unless explicitly requested.
+  - Use body language and facial expression to show emotion.
+  - Keep the camera stable unless a movement is selected.
+  - No subtitles, no text, no fake logos.
+voiceover:
+  default_duration: 6 seconds
+  types:
+    - host intro before contestant performs
+    - contestant inner monologue before going on stage
+    - result announcement build-up
+    - emotional transition
+    - suspenseful recap
+suno:
+  styles:
+    - cinematic suspense trailer underscore
+    - tense reality show conflict music
+    - emotional piano cinematic underscore
+    - elegant mysterious broadcast music
+    - dramatic performance aftermath music
+    - uplifting competition reveal music
+reality_music_competition:
+  name: Reality Music Competition
+  global_style:
+    - realistic cinematic broadcast look
+    - high-end televised music competition
+    - stable camera
+    - no subtitles
+    - no text on screen
+    - no fake logos
+    - no sudden camera movement
+  scenes:
+    - judge reaction
+    - audience reaction
+    - stage transition
+    - backstage hallway
+    - contestant close-up
+    - host introduction
+    - performance aftermath
+    - social caption
+    - custom scene
+  common_mood_words:
+    - cinematic
+    - emotional
+    - suspenseful
+    - polished broadcast
+    - dramatic reality show
+    - warm and touching
+    - tense and awkward
+    - custom mood

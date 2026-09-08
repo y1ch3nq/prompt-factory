@@ -1,0 +1,31 @@
+template:
+  name: Grok Image Prompt
+  visual: true
+  media_kind: image
+  rules:
+    - Include the selected aspect ratio or resolution.
+    - Keep character identity and styling consistent.
+    - Use realistic composition, lighting, and mood.
+    - No text, no subtitles, no fake logos unless explicitly requested.
+  body: |-
+    {reference_line}
+    {reference_notes_line}
+    Create a {aspect_ratio_text} image for {scene_description}.
+
+    Character:
+    {character_description}
+
+    Scene:
+    {scene_details}
+
+    Action:
+    {action_description}
+
+    Composition:
+    {camera_angle_description}. Realistic broadcast lighting, polished composition, clear character consistency.
+
+    Mood:
+    {mood_description}
+
+    Important:
+    {important_rules}

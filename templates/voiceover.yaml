@@ -1,0 +1,29 @@
+template:
+  name: Voiceover Prompt
+  visual: false
+  media_kind: voiceover
+  rules:
+    - Realistic human voice.
+    - Natural delivery.
+    - No background music.
+    - No sound effects.
+    - No robotic tone.
+    - Six seconds unless another duration is specified.
+    - Suitable for a televised competition show.
+  body: |-
+    Write a concise voiceover generation prompt for a televised music competition show.
+
+    Voice / Role:
+    {character_description}
+
+    Voiceover Type:
+    {scene_description}
+
+    Delivery:
+    Realistic human voice, natural pacing, {emotion_description}, {mood_description}, {voiceover_duration}.
+
+    Line / Intent:
+    {dialogue_or_intent}
+
+    Constraints:
+    No background music, no sound effects, no robotic tone, no subtitles, no text. {negative_constraints_line}

@@ -1,0 +1,34 @@
+items:
+  - name: happy applause
+    description: joyful, approving, energetic applause with genuine smiles
+    polarity: positive
+  - name: moved and tearful
+    description: visibly touched, emotional eyes, restrained tears, sincere warmth
+    polarity: positive
+  - name: awkward surprise
+    description: uncertain, startled, slightly uncomfortable, unsure how to respond
+    polarity: negative
+  - name: impressed smile
+    description: impressed, respectful, quietly delighted, approving
+    polarity: positive
+  - name: confused
+    description: puzzled, searching for context, uncertain facial expression
+    polarity: negative
+  - name: calm waiting
+    description: patient, quiet, expectant, emotionally contained
+    polarity: neutral
+  - name: shocked
+    description: stunned, frozen, wide-eyed, breath held
+    polarity: negative
+  - name: disappointed
+    description: let down, serious, restrained sadness, low energy
+    polarity: negative
+  - name: tense confrontation
+    description: high-stakes tension, guarded posture, sharp eye contact
+    polarity: negative
+  - name: quiet admiration
+    description: understated respect, soft approval, stillness, thoughtful attention
+    polarity: positive
+  - name: custom emotion
+    description: User-defined emotion.
+    polarity: neutral

@@ -1,0 +1,15 @@
+items:
+  - name: completely static camera
+    description: the camera remains completely locked off and stable
+  - name: subtle slow push-in
+    description: a subtle slow push-in that gently increases emotional focus
+  - name: smooth rightward tracking shot while the camera turns slightly left
+    description: a smooth rightward tracking shot while the camera turns slightly left, broadcast-stable and controlled
+  - name: slow cinematic zoom in
+    description: a slow cinematic zoom in with no abrupt acceleration
+  - name: stable handheld-free broadcast shot
+    description: a stable handheld-free broadcast shot with no shake
+  - name: no camera movement
+    description: no camera movement; keep the frame steady and composed
+  - name: custom camera movement
+    description: User-defined camera movement.

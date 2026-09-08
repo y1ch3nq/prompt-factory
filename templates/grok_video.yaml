@@ -1,0 +1,36 @@
+template:
+  name: Grok Video Prompt
+  visual: true
+  media_kind: video clip
+  rules:
+    - Always include camera movement and camera stability.
+    - No sudden motion.
+    - No subtitles.
+    - No text.
+    - No fake logos.
+    - If a reference image is used, no identity changes.
+  body: |-
+    {reference_line}
+    {reference_notes_line}
+    Create a {aspect_ratio_text} video clip for {scene_description}.
+
+    Character:
+    {character_description}
+
+    Scene:
+    {scene_details}
+
+    Action:
+    {action_description}
+
+    Camera:
+    {camera_instruction}
+
+    Dialogue:
+    {dialogue_rule}
+
+    Mood:
+    {mood_description}
+
+    Important:
+    {important_rules}

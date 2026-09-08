@@ -1,0 +1,6 @@
+output_type,character,scene_type,emotion,camera_angle,camera_movement,dialogue_mode,action,dialogue_line,aspect_ratio,extra_notes,negative_constraints
+Grok Video Prompt,Contestant,contestant close-up,moved and tearful,frontal close-up,subtle slow push-in,no dialogue,wiping tears,,9:16 vertical short-form video,"Contestant waits for the judges' decision under warm stage lights","avoid subtitles; no fake logos"
+Judge Reaction Prompt,Purple female judge,judge reaction,moved and tearful,frontal close-up,completely static camera,silent reaction,hand over chest,,16:9 horizontal video,"She hears a surprisingly emotional final note","no exaggerated crying"
+Audience Reaction Prompt,Audience group,audience reaction,happy applause,audience medium shot,completely static camera,no dialogue,applause,,9:16 vertical short-form video,"Audience rises into applause after the chorus","no text overlays"
+Grok Image Prompt,Host,host introduction,impressed smile,stage wide shot,no camera movement,no dialogue,calm waiting,,2560x423 YouTube banner,"Banner-style image for a dramatic episode announcement","no subtitles; no fake network logos"
+Suno Music Prompt,Contestant,performance aftermath,quiet admiration,static frontal medium shot,no camera movement,no dialogue,calm waiting,,,"Emotional piano underscore after a vulnerable performance","no vocals, no lyrics"

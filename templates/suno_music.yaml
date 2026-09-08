@@ -1,0 +1,18 @@
+template:
+  name: Suno Music Prompt
+  visual: false
+  media_kind: music prompt
+  rules:
+    - Keep under 1000 characters.
+    - Focus on music style, mood, instrumentation, pacing, and broadcast use.
+    - No vocals unless specified.
+    - No lyrics unless specified.
+    - Commercial, polished sound.
+  body: |-
+    Create polished music for a reality music competition scene.
+    Style: {suno_style}.
+    Mood: {mood_description}; emotion: {emotion_description}.
+    Instrumentation: cinematic piano, restrained strings, soft pulses, tasteful broadcast percussion unless the notes specify otherwise.
+    Pacing: edit-friendly, clear build, no messy transitions.
+    Use: {scene_details}.
+    Constraints: no vocals unless explicitly requested, no lyrics unless explicitly requested, commercial high-end broadcast sound. {negative_constraints_line}

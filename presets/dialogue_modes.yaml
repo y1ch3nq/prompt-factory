@@ -1,0 +1,15 @@
+items:
+  - name: no dialogue
+    description: No dialogue.
+  - name: only main character speaks
+    description: Only the main character speaks; all other characters remain silent and do not lip sync.
+  - name: voiceover only
+    description: Voiceover only; visible characters do not lip sync.
+  - name: silent reaction
+    description: No dialogue, no lip sync, no subtitles, no text.
+  - name: one line of dialogue
+    description: One concise line of dialogue from the main speaker only.
+  - name: no background voices
+    description: No background voices or crowd chatter.
+  - name: custom dialogue rule
+    description: User-defined dialogue rule.

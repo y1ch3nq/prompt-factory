@@ -1,0 +1,38 @@
+template:
+  name: Judge Reaction Prompt
+  visual: true
+  media_kind: judge reaction video
+  rules:
+    - Use personality-based judge reactions.
+    - Keep the camera stable.
+    - No subtitles.
+    - No text.
+    - No fake logos.
+  body: |-
+    {reference_line}
+    {reference_notes_line}
+    Create a {aspect_ratio_text} judge reaction video clip for a high-end televised music competition.
+
+    Character:
+    {character_description}
+
+    Judge Reaction Logic:
+    {judge_personality_block}
+
+    Scene:
+    {scene_details}
+
+    Action:
+    {action_description}
+
+    Camera:
+    {camera_instruction}
+
+    Dialogue:
+    {dialogue_rule}
+
+    Mood:
+    {mood_description}
+
+    Important:
+    {important_rules}

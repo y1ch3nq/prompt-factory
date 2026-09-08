@@ -1,0 +1,88 @@
+judges:
+  Purple female judge:
+    personality: "gentle, emotionally sensitive, warm, detailed"
+    lines:
+      Praise:
+        English:
+          - "That was beautifully honest. I could feel every little crack in your voice turning into emotion."
+          - "You did not just sing the note, you let us understand why it mattered."
+          - "There is something very delicate in the way you tell a story. Please protect that."
+          - "Your voice feels fragile in the best way, like it could break our hearts without trying."
+          - "That performance had warmth, control, and a kind of quiet courage I really admire."
+        Chinese:
+          - "你不是只是在唱那个音，你是在让我们明白它为什么重要。"
+          - "你的声音很细腻，有一种不需要用力也能打动人的东西。"
+          - "这段表演很真诚，我能听到你声音里每一个小小的情绪变化。"
+          - "你刚才不是在炫技，而是在讲一个很柔软、很真实的故事。"
+          - "请保护你声音里的那种脆弱感，它真的很珍贵。"
+      Critique / Roast:
+        English:
+          - "I can hear your heart, but the performance still needs more control before it can fully land."
+          - "The emotion is there, but right now it is carrying you instead of you carrying the song."
+          - "I wanted to be moved, and I almost was, but the vocals slipped away at the important moments."
+          - "You have something special, but tonight it felt hidden behind nerves and uneven choices."
+          - "I believe you felt the song. I just need the audience to feel it with you next time."
+        Chinese:
+          - "我听得到你的真心，但这段表演还需要更多控制力，情绪才会真正落地。"
+          - "情绪是有的，但现在是情绪带着你走，不是你带着歌走。"
+          - "我差一点被你打动了，可惜几个关键的音把情绪拉回来了。"
+          - "你身上有特别的东西，但今晚它被紧张和不稳定藏住了。"
+          - "我相信你感受到了这首歌，但下一次你要让观众也一起感受到。"
+  Black male judge:
+    personality: "strict, serious, cold, controlled"
+    lines:
+      Praise:
+        English:
+          - "That was controlled. Clean choices, no wasted emotion, and finally a performance with discipline."
+          - "I do not praise easily. Tonight, you earned it."
+          - "You stayed focused, you stayed sharp, and you did not let the stage swallow you."
+          - "That was not perfect, but it was serious work. I respect that."
+          - "You came in with pressure and gave us precision. That matters."
+        Chinese:
+          - "这段很克制，选择干净，没有浪费情绪，终于像一个有纪律的表演。"
+          - "我不轻易夸人，但今晚你确实值得。"
+          - "你很专注，也很锋利，没有被这个舞台吞掉。"
+          - "它不完美，但这是认真做出来的东西，我尊重这一点。"
+          - "你顶着压力进来，却给出了准确度，这很重要。"
+      Critique / Roast:
+        English:
+          - "That was not ready. The idea was bigger than your execution."
+          - "You looked confident, but the performance did not have the foundation to back it up."
+          - "Right now, the stage is asking a question, and you are not answering it."
+          - "I heard effort. I did not hear command."
+          - "If this is the level you bring next time, the competition will move on without you."
+        Chinese:
+          - "这还没有准备好。你的想法比你的执行大太多。"
+          - "你看起来很自信，但表演本身没有足够的基础支撑它。"
+          - "现在这个舞台在问你问题，而你没有回答出来。"
+          - "我听到了努力，但没有听到掌控力。"
+          - "如果下一次还是这个水平，比赛不会等你。"
+  Colorful male judge:
+    personality: "playful, expressive, chaotic, sharp but entertaining"
+    lines:
+      Praise:
+        English:
+          - "Okay, wait. I was ready to be casual, and then you walked in and rearranged the room."
+          - "That note had rent, bills, drama, and a comeback story inside it."
+          - "I do not know what you put in that chorus, but I need a second serving."
+          - "You made the stage feel expensive. That is a compliment and a warning to everyone else."
+          - "That was the kind of performance that makes the other contestants start blinking too much."
+        Chinese:
+          - "等一下，我本来准备随便听听，结果你一开口把整个房间都重新摆了一遍。"
+          - "那个高音里面有房租、有账单、有剧情，还有一个逆袭故事。"
+          - "我不知道你在副歌里放了什么，但我想再来一份。"
+          - "你刚才让这个舞台看起来很贵，这是夸你，也是提醒别人小心。"
+          - "这种表演会让后台其他选手开始疯狂眨眼。"
+      Critique / Roast:
+        English:
+          - "That performance packed a suitcase, got to the airport, and forgot the passport."
+          - "I respect the confidence, but the notes were filing a complaint."
+          - "You gave us drama, yes. I am still looking for the vocals."
+          - "The outfit arrived. The song is apparently taking a later flight."
+          - "That was bold. Not correct, but definitely bold."
+        Chinese:
+          - "这段表演像是行李都打包好了，到了机场才发现没带护照。"
+          - "我尊重你的自信，但那些音准已经在投诉了。"
+          - "戏剧性是有的，没错。我现在还在找唱功在哪里。"
+          - "造型已经到场了，歌可能还在下一班飞机上。"
+          - "这很大胆。不是很对，但确实很大胆。"

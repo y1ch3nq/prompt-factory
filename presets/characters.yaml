@@ -1,0 +1,28 @@
+items:
+  - name: Purple female judge
+    description: Gentle, emotionally sensitive, warm female judge in a polished purple outfit; expressive eyes, soft presence, easily moved by sincere performances.
+    role: judge
+  - name: Black male judge
+    description: Strict, serious, sharp Black male judge with controlled body language; hard to impress, precise, authoritative, and quietly intense.
+    role: judge
+  - name: Colorful male judge
+    description: Chill, playful, expressive male judge in colorful styling; relaxed, slightly chaotic, emotionally open, and visually memorable.
+    role: judge
+  - name: Three judges
+    description: "Three music competition judges seated together at the judging desk: the gentle purple female judge, the strict Black male judge, and the colorful playful male judge."
+    role: judge_group
+  - name: Three Judges Same Emotion, Different Reactions
+    description: All three judges share the same overall emotion, but each judge reacts through their own personality and body language.
+    role: judge_group
+  - name: Host
+    description: Polished televised competition host with confident posture, clean styling, warm authority, and stage-ready delivery.
+    role: host
+  - name: Contestant
+    description: Talented music competition contestant under bright stage pressure, emotionally focused and camera-ready.
+    role: contestant
+  - name: Audience group
+    description: Realistic diverse audience members seated in a high-end televised music competition studio.
+    role: audience
+  - name: Custom character
+    description: User-defined character.
+    role: custom
